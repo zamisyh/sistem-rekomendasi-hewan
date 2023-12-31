@@ -1,0 +1,10 @@
+1. Install python versi 3.x di https://www.python.org/downloads/
+    Atau bisa ikuti tutorial versi indonesianya https://revou.co/panduan-teknis/cara-install-python
+
+2. buka github https://github.com/zamisyh/sistem-rekomendasi-hewan download projectnya 
+    atau bisa dengan cara cloning dengan perintah berikut pada terminal (gitbash)
+        - git clone https://github.com/zamisyh/sistem-rekomendasi-hewan
+
+3. Buka git bash, masuk kedalam folder projectnya dengan mengetik "cd sistem-rekomendasi-hewan"
+4. Jalankan perintah berikut "pip install -r requirements.txt" untuk menginstall library tambahan pada project
+5. Menjalankan project dengan perintah "python main.py"

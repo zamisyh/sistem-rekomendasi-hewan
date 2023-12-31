@@ -1,0 +1,46 @@
+Dokumentasi Kode:
+
+1. **Import Library**
+   - `json`: Digunakan untuk membaca data JSON dari file.
+   - `SequenceMatcher` dari `difflib`: Mengukur kesamaan antara dua string.
+
+2. **Buka File dan Muat Data**
+   - `file = open('data.json')`: Membuka file data JSON.
+   - `data_hewan = json.load(file)`: Memuat data hewan dari file JSON.
+
+3. **Fungsi Similarity**
+   - `similarity(a, b)`: Mengukur kesamaan antara dua string menggunakan SequenceMatcher.
+
+4. **Fungsi Tampilkan Hewan Cocok**
+   - `tampilkan_hewan_cocok(matching_animals)`: Menampilkan daftar hewan yang cocok dengan kriteria pencarian.
+
+5. **Fungsi Tampilkan Saran**
+   - `tampilkan_saran(selected_animal_data)`: Menampilkan deskripsi dan saran tentang hewan yang dipilih.
+
+6. **Loop Utama**
+   - `while True:`: Membuat loop utama untuk interaksi dengan pengguna.
+
+7. **Input Kriteria Pencarian**
+   - `search_criteria["warna_kulit"] = input("Warna kulit: ").lower()`: Mengambil input warna kulit dan mengonversinya ke huruf kecil.
+   - `search_criteria["ukuran_tubuh"] = input("Ukuran tubuh: ").lower()`: Mengambil input ukuran tubuh dan mengonversinya ke huruf kecil.
+   - `search_criteria["jenis_makanan"] = input("Jenis makanan: ").lower()`: Mengambil input jenis makanan dan mengonversinya ke huruf kecil.
+
+8. **Pencarian Hewan Cocok**
+   - Mengevaluasi setiap hewan dalam data berdasarkan kriteria pencarian pengguna.
+   - Menggunakan fungsi similarity untuk mengukur kesamaan antara kriteria pencarian dan data hewan.
+   - Menentukan batas kesamaan yang dapat diterima dengan variabel `threshold`.
+
+9. **Menampilkan Hewan yang Cocok**
+   - `tampilkan_hewan_cocok(matching_animals)`: Menampilkan daftar hewan yang cocok dengan kriteria pencarian.
+
+10. **Pilih Hewan**
+   - Meminta pengguna untuk memilih nomor hewan dari daftar yang ditampilkan.
+   - Memastikan nomor hewan yang dipilih valid.
+   - Menampilkan deskripsi dan saran tentang hewan yang dipilih.
+
+11. **Pilihan Lanjutan**
+    - Meminta opsi lanjutan dari pengguna.
+    - Jika pengguna tidak ingin memilih lagi, keluar dari loop utama.
+
+12. **Penanganan Akhir Loop**
+    - Jika tidak ada hewan yang cocok dengan kriteria pencarian, atau pengguna memilih untuk tidak memilih lagi, keluar dari loop utama.

@@ -4,230 +4,399 @@
     "makanan": "Daging",
     "warna_kulit": "Coklat",
     "ukuran_tubuh": "Besar",
-    "jenis_makanan": "Karnivora"
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Singa adalah hewan karnivora dengan bulu coklat, tubuh besar, dan biasanya memakan daging. Mereka dikenal sebagai raja hutan."
   },
   {
     "nama": "Gajah",
     "makanan": "Rumput",
     "warna_kulit": "Abu-abu",
     "ukuran_tubuh": "Besar",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Gajah adalah hewan herbivora yang memakan rumput. Mereka memiliki kulit abu-abu dan tubuh besar, sering ditemukan di daerah berhutan."
   },
   {
     "nama": "Ular",
     "makanan": "Hewan kecil",
     "warna_kulit": "Hijau",
     "ukuran_tubuh": "Panjang",
-    "jenis_makanan": "Karnivora"
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Ular adalah hewan karnivora dengan tubuh panjang. Makanan utama mereka adalah hewan kecil. Beberapa ular memiliki warna kulit hijau yang memungkinkan mereka menyamar di lingkungan sekitar."
   },
   {
     "nama": "Kanguru",
     "makanan": "Rumput",
     "warna_kulit": "Coklat",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Kanguru adalah hewan herbivora yang memakan rumput. Mereka memiliki ukuran tubuh sedang dan sering ditemukan di Australia."
   },
   {
     "nama": "Hiu",
     "makanan": "Ikan",
     "warna_kulit": "Abu-abu",
     "ukuran_tubuh": "Besar",
-    "jenis_makanan": "Karnivora"
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Hiu adalah ikan karnivora dengan tubuh besar. Makanan utama mereka adalah ikan. Beberapa spesies hiu memiliki kulit berwarna abu-abu."
   },
   {
     "nama": "Zebra",
     "makanan": "Rumput",
-    "warna_kulit": "Hitam dan Putih",
+    "warna_kulit": "Putih",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Zebra adalah hewan herbivora yang memakan rumput. Mereka memiliki warna kulit hitam dan putih yang khas, sering ditemukan di padang rumput."
   },
   {
     "nama": "Koala",
     "makanan": "Daun Eukaliptus",
     "warna_kulit": "Abu-abu",
     "ukuran_tubuh": "Kecil",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Koala adalah hewan herbivora dengan bulu abu-abu dan ukuran tubuh kecil. Makanan utama mereka adalah daun eukaliptus."
   },
   {
     "nama": "Harimau",
     "makanan": "Daging",
-    "warna_kulit": "Jingga dengan Garis Hitam",
+    "warna_kulit": "Orange",
     "ukuran_tubuh": "Besar",
-    "jenis_makanan": "Karnivora"
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Harimau adalah hewan karnivora dengan kulit berwarna jingga dan garis hitam. Mereka termasuk dalam keluarga kucing besar dan memakan daging."
   },
   {
     "nama": "Kura-kura",
     "makanan": "Rumput dan Buah",
-    "warna_kulit": "Hijau dan Coklat",
+    "warna_kulit": "Hijau",
     "ukuran_tubuh": "Kecil",
-    "jenis_makanan": "Omnivora"
+    "jenis_makanan": "Omnivora",
+    "deskripsi": "Kura-kura adalah hewan omnivora dengan kulit hijau dan coklat. Makanan mereka meliputi rumput dan buah-buahan. Kura-kura sering ditemukan di darat dan air."
   },
   {
     "nama": "Kuda",
     "makanan": "Rumput",
     "warna_kulit": "Beragam",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Kuda adalah hewan herbivora yang memakan rumput. Mereka memiliki beragam warna kulit dan digunakan sebagai hewan peliharaan serta untuk bekerja."
   },
   {
     "nama": "Jerapah",
     "makanan": "Daun",
-    "warna_kulit": "Bercak-bercak Coklat",
+    "warna_kulit": "Coklat",
     "ukuran_tubuh": "Besar",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Jerapah adalah hewan herbivora dengan leher panjang dan tubuh besar. Makanan utama mereka adalah daun. Jerapah sering ditemukan di daerah berhutan."
   },
   {
     "nama": "Kucing",
     "makanan": "Daging",
     "warna_kulit": "Beragam",
     "ukuran_tubuh": "Kecil",
-    "jenis_makanan": "Karnivora"
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Kucing adalah hewan karnivora dengan beragam warna bulu. Mereka umumnya dijadikan hewan peliharaan dan memakan daging."
   },
   {
     "nama": "Kuda Nil",
     "makanan": "Rumput dan Tanaman Air",
     "warna_kulit": "Abu-abu",
     "ukuran_tubuh": "Besar",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Kuda Nil adalah hewan herbivora yang hidup di sekitar sungai dan danau. Makanan mereka meliputi rumput dan tanaman air. Mereka memiliki kulit abu-abu dan tubuh besar."
   },
   {
     "nama": "Panda",
     "makanan": "Bambu",
-    "warna_kulit": "Hitam dan Putih",
+    "warna_kulit": "Putih",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Panda adalah hewan herbivora dengan warna kulit hitam dan putih. Makanan utama mereka adalah bambu. Panda sering diidentifikasi dengan wajah hitam dan mata berwarna hitam."
   },
   {
     "nama": "Cheetah",
     "makanan": "Daging",
-    "warna_kulit": "Kuning dengan Bintik Hitam",
+    "warna_kulit": "Orange",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Karnivora"
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Cheetah adalah hewan karnivora dengan bulu berwarna kuning dan bintik hitam. Mereka merupakan salah satu hewan pemangsa tercepat di darat."
   },
   {
     "nama": "Buaya",
     "makanan": "Ikan dan Hewan Air Lainnya",
-    "warna_kulit": "Hijau Gelap",
+    "warna_kulit": "Hijau",
     "ukuran_tubuh": "Besar",
-    "jenis_makanan": "Karnivora"
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Buaya adalah hewan karnivora yang hidup di air. Makanan utama mereka meliputi ikan dan hewan air lainnya. Buaya memiliki kulit hijau gelap dan ukuran tubuh besar."
   },
   {
     "nama": "Penguin",
     "makanan": "Ikan dan Krill",
-    "warna_kulit": "Hitam dan Putih",
+    "warna_kulit": "Hitam",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Karnivora"
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Penguin adalah burung air yang tidak dapat terbang. Makanan utama mereka meliputi ikan dan krill. Mereka memiliki warna kulit hitam dan putih."
   },
   {
     "nama": "Kepiting",
     "makanan": "Udang dan Ikan Kecil",
     "warna_kulit": "Beragam",
     "ukuran_tubuh": "Kecil",
-    "jenis_makanan": "Omnivora"
+    "jenis_makanan": "Omnivora",
+    "deskripsi": "Kepiting adalah hewan omnivora yang hidup di air. Makanan mereka meliputi udang dan ikan kecil. Kepiting memiliki kulit beragam warna dan ukuran tubuh kecil."
   },
   {
     "nama": "Lumba-lumba",
     "makanan": "Ikan",
     "warna_kulit": "Abu-abu",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Karnivora"
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Lumba-lumba adalah mamalia laut yang hidup di perairan hangat. Makanan utama mereka adalah ikan. Lumba-lumba memiliki warna kulit abu-abu dan ukuran tubuh sedang."
   },
   {
     "nama": "Banteng",
     "makanan": "Rumput",
     "warna_kulit": "Coklat",
     "ukuran_tubuh": "Besar",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Banteng adalah hewan herbivora dengan kulit berwarna coklat. Makanan utama mereka adalah rumput. Banteng umumnya ditemukan di daerah berpadang rumput."
   },
   {
     "nama": "Landak",
     "makanan": "Buah-buahan dan Tanaman",
-    "warna_kulit": "Berwarna Kekuningan",
+    "warna_kulit": "Kuning",
     "ukuran_tubuh": "Kecil",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Landak adalah hewan herbivora yang memakan buah-buahan dan tanaman. Mereka memiliki kulit berwarna kekuningan dan tubuh kecil. Beberapa landak memiliki duri di punggungnya untuk melindungi diri dari predator."
   },
   {
     "nama": "Katak",
     "makanan": "Serangga dan Ular Kecil",
-    "warna_kulit": "Beraneka Warna",
+    "warna_kulit": "Beragam",
     "ukuran_tubuh": "Kecil",
-    "jenis_makanan": "Insektivora"
+    "jenis_makanan": "Insektivora",
+    "deskripsi": "Katak adalah hewan insektivora yang memakan serangga dan ular kecil. Mereka memiliki beraneka warna kulit dan umumnya ditemukan di lingkungan air."
   },
   {
     "nama": "Badak",
     "makanan": "Rumput",
     "warna_kulit": "Abu-abu",
     "ukuran_tubuh": "Besar",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Badak adalah hewan herbivora dengan ukuran tubuh yang besar. Mereka memiliki kulit berwarna abu-abu dan makanan utamanya adalah rumput."
   },
   {
     "nama": "Rusa",
     "makanan": "Rumput dan Daun",
-    "warna_kulit": "Coklat dengan Rantai Putih",
+    "warna_kulit": "Coklat",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Rusa adalah hewan herbivora dengan bulu coklat yang memiliki pola rantai putih. Mereka memiliki ukuran tubuh sedang dan makanan utamanya adalah rumput dan daun."
   },
   {
     "nama": "Komodo",
     "makanan": "Hewan Kecil, Burung, dan Telur",
-    "warna_kulit": "Abu-abu dan Coklat",
+    "warna_kulit": "Abu-abu",
     "ukuran_tubuh": "Besar",
-    "jenis_makanan": "Karnivora"
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Komodo adalah hewan karnivora dengan ukuran tubuh besar. Mereka memiliki kulit berwarna abu-abu dan coklat. Makanan utamanya adalah hewan kecil, burung, dan telur."
   },
   {
     "nama": "Kancil",
     "makanan": "Rumput dan Buah-buahan",
-    "warna_kulit": "Coklat Kemerahan",
+    "warna_kulit": "Coklat",
     "ukuran_tubuh": "Kecil",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Kancil adalah hewan herbivora kecil dengan bulu berwarna coklat kemerahan. Makanan utamanya adalah rumput dan buah-buahan."
   },
   {
     "nama": "Anjing",
     "makanan": "Daging dan Biji-bijian",
     "warna_kulit": "Beragam",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Omnivora"
+    "jenis_makanan": "Omnivora",
+    "deskripsi": "Anjing adalah hewan omnivora dengan ukuran tubuh sedang. Mereka memiliki beragam warna kulit dan makanan utamanya adalah daging dan biji-bijian."
   },
   {
     "nama": "Domba",
     "makanan": "Rumput dan Daun",
     "warna_kulit": "Beragam",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Domba adalah hewan herbivora dengan ukuran tubuh sedang. Mereka memiliki beragam warna kulit dan makanan utamanya adalah rumput dan daun."
   },
   {
     "nama": "Itik",
     "makanan": "Rumput, Bijian, dan Serangga",
     "warna_kulit": "Beragam",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Omnivora"
+    "jenis_makanan": "Omnivora",
+    "deskripsi": "Itik adalah hewan omnivora dengan ukuran tubuh sedang. Makanan utamanya meliputi rumput, bijian, dan serangga. Mereka memiliki beragam warna kulit."
   },
   {
     "nama": "Bebek",
     "makanan": "Rumput, Bijian, dan Serangga",
     "warna_kulit": "Beragam",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Omnivora"
+    "jenis_makanan": "Omnivora",
+    "deskripsi": "Bebek adalah hewan omnivora dengan ukuran tubuh sedang. Makanan utamanya meliputi rumput, bijian, dan serangga. Mereka memiliki beragam warna kulit."
   },
   {
     "nama": "Ayam",
     "makanan": "Biji-bijian dan Serangga",
     "warna_kulit": "Beragam",
     "ukuran_tubuh": "Kecil",
-    "jenis_makanan": "Omnivora"
+    "jenis_makanan": "Omnivora",
+    "deskripsi": "Ayam adalah hewan omnivora dengan ukuran tubuh kecil. Makanan utamanya meliputi biji-bijian dan serangga. Mereka memiliki beragam warna kulit."
   },
   {
     "nama": "Kambing",
     "makanan": "Rumput dan Daun",
     "warna_kulit": "Beragam",
     "ukuran_tubuh": "Sedang",
-    "jenis_makanan": "Herbivora"
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Kambing adalah hewan herbivora dengan ukuran tubuh sedang. Mereka memiliki beragam warna kulit dan makanan utamanya adalah rumput dan daun."
   },
   {
     "nama": "Sapi",
     "makanan": "Rumput",
     "warna_kulit": "Beragam",
     "ukuran_tubuh": "Besar",
-    "jenis_makanan": "Herbivora"
-  }  
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Sapi adalah hewan herbivora dengan ukuran tubuh besar. Mereka memiliki beragam warna kulit dan makanan utamanya adalah rumput."
+  },
+  {
+    "nama": "Beruang Kutub",
+    "makanan": "Anjing Laut dan Ikan",
+    "warna_kulit": "Putih",
+    "ukuran_tubuh": "Besar",
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Beruang kutub adalah hewan karnivora dengan bulu putih. Makanan utama mereka meliputi anjing laut dan ikan. Mereka hidup di lingkungan Arktik yang dingin."
+  },
+  {
+    "nama": "Gorila",
+    "makanan": "Buah-buahan dan Daun",
+    "warna_kulit": "Hitam",
+    "ukuran_tubuh": "Besar",
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Gorila adalah hewan herbivora yang utamanya memakan buah-buahan dan daun. Mereka memiliki bulu hitam dan tubuh besar, sering ditemukan di hutan yang lebat."
+  },
+  {
+    "nama": "Macan Tutul",
+    "makanan": "Daging",
+    "warna_kulit": "Orange",
+    "ukuran_tubuh": "Sedang",
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Macan tutul adalah hewan karnivora dengan bulu berwarna oranye dan bintik hitam. Mereka termasuk dalam keluarga kucing besar dan memakan daging."
+  },
+  {
+    "nama": "Kangal",
+    "makanan": "Daging",
+    "warna_kulit": "Coklat",
+    "ukuran_tubuh": "Besar",
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Kangal adalah anjing karnivora dengan bulu coklat dan tubuh besar. Mereka sering digunakan sebagai anjing penjaga dan penggembala."
+  },
+  {
+    "nama": "Kuda Laut",
+    "makanan": "Plankton dan Kecil Laut",
+    "warna_kulit": "Beragam",
+    "ukuran_tubuh": "Kecil",
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Kuda laut adalah ikan herbivora dengan warna kulit beraneka ragam. Makanan utama mereka melibatkan plankton dan organisme kecil di laut."
+  },
+  {
+    "nama": "Elang",
+    "makanan": "Daging dan Ikan",
+    "warna_kulit": "Coklat",
+    "ukuran_tubuh": "Sedang",
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Elang adalah burung pemangsa dengan bulu coklat dan putih. Makanan utama mereka melibatkan daging dan ikan. Mereka memiliki ukuran tubuh sedang."
+  },
+  {
+    "nama": "Paus Biru",
+    "makanan": "Plankton dan Krill",
+    "warna_kulit": "Abu-abu",
+    "ukuran_tubuh": "Besar",
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Paus biru adalah mamalia laut herbivora yang memakan plankton dan krill. Mereka memiliki kulit berwarna abu-abu dan biru serta ukuran tubuh yang besar."
+  },
+  {
+    "nama": "Katak Bull",
+    "makanan": "Serangga dan Ular Kecil",
+    "warna_kulit": "Hijau",
+    "ukuran_tubuh": "Sedang",
+    "jenis_makanan": "Insektivora",
+    "deskripsi": "Katak bull adalah hewan insektivora yang memakan serangga dan ular kecil. Mereka memiliki kulit hijau dan umumnya ditemukan di lingkungan air."
+  },
+  {
+    "nama": "Lobster",
+    "makanan": "Ikan Kecil dan Organisme Laut",
+    "warna_kulit": "Biru",
+    "ukuran_tubuh": "Sedang",
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Lobster adalah hewan laut karnivora dengan warna kulit biru dan merah. Makanan utama mereka mencakup ikan kecil dan organisme laut lainnya. Lobster memiliki cangkang keras sebagai pelindung."
+  },
+  {
+    "nama": "Burung Hantu",
+    "makanan": "Tikus dan Kecil Mamalia",
+    "warna_kulit": "Coklat",
+    "ukuran_tubuh": "Sedang",
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Burung hantu adalah burung pemangsa yang memakan tikus dan mamalia kecil lainnya. Mereka memiliki warna kulit coklat tua dan ukuran tubuh sedang."
+  },
+  {
+    "nama": "Simpanse",
+    "makanan": "Buah-buahan dan Daun",
+    "warna_kulit": "Coklat",
+    "ukuran_tubuh": "Besar",
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Simpanse adalah hewan herbivora yang memakan buah-buahan dan daun. Mereka memiliki kulit coklat dan ukuran tubuh besar."
+  },
+  {
+    "nama": "Kelelawar",
+    "makanan": "Buah-buahan dan Serangga",
+    "warna_kulit": "Coklat",
+    "ukuran_tubuh": "Kecil",
+    "jenis_makanan": "Frugivora",
+    "deskripsi": "Kelelawar adalah mamalia yang memakan buah-buahan dan serangga. Mereka memiliki warna kulit coklat gelap dan ukuran tubuh kecil. Kelelawar sering aktif di malam hari."
+  },
+  {
+    "nama": "Kucing Hutan",
+    "makanan": "Burung dan Hewan Kecil",
+    "warna_kulit": "Coklat",
+    "ukuran_tubuh": "Sedang",
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Kucing hutan adalah hewan karnivora dengan bulu coklat kemerahan. Makanan utama mereka mencakup burung dan hewan kecil. Mereka sering ditemukan di hutan-hutan Asia Tenggara."
+  },
+  {
+    "nama": "Ikan Cupang",
+    "makanan": "Pelet dan Cacing",
+    "warna_kulit": "Beragam",
+    "ukuran_tubuh": "Kecil",
+    "jenis_makanan": "Omnivora",
+    "deskripsi": "Ikan cupang adalah ikan hias omnivora yang memakan pelet dan cacing. Mereka memiliki beragam warna kulit dan ukuran tubuh kecil. Ikan cupang sering dipelihara dalam akuarium."
+  },
+  {
+    "nama": "Bekantan",
+    "makanan": "Buah-buahan dan Daun",
+    "warna_kulit": "Coklat",
+    "ukuran_tubuh": "Sedang",
+    "jenis_makanan": "Herbivora",
+    "deskripsi": "Bekantan adalah hewan herbivora dengan wajah khas dan hidung panjang. Makanan utama mereka adalah buah-buahan dan daun. Bekantan sering ditemukan di hutan-hutan di Asia Tenggara."
+  },
+  {
+    "nama": "Belut",
+    "makanan": "Ikan Kecil dan Ular Kecil",
+    "warna_kulit": "Beragam",
+    "ukuran_tubuh": "Panjang",
+    "jenis_makanan": "Karnivora",
+    "deskripsi": "Belut adalah ikan karnivora dengan tubuh panjang. Makanan utama mereka meliputi ikan kecil dan ular kecil. Beberapa belut memiliki warna kulit yang beragam."
+  },
+  {
+    "nama": "Cicak",
+    "makanan": "Serangga Kecil",
+    "warna_kulit": "Beragam",
+    "ukuran_tubuh": "Kecil",
+    "jenis_makanan": "Insektivora",
+    "deskripsi": "Cicak adalah hewan insektivora yang memakan serangga kecil. Mereka memiliki beraneka warna kulit dan umumnya ditemukan di berbagai lingkungan."
+  }
 ]
